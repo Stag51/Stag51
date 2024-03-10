@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **dev.saad.shabbir@gmail.com**
 
-- ⚡ Fun fact **Loves Mathematics**
+- ⚡ Fun fact ** I Loves Mathematics**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

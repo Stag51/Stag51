@@ -11,8 +11,8 @@
 
 🚀 **About Me:**
 
-- 💼 Currently working remotely as a **Machine Learning Engineer** at **Intel Warsaw**
-- 🤖 Specialized in **computer vision**, **reinforcement learning**, and **AI-powered desktop applications**
+- 💼 Currently working remotely as a **Machine Learning Engineer** at **AI Data House **
+- 🤖 Specialized in **Machine Learning**,**Deep Learning**, **NLP**,, **computer vision**, **reinforcement learning**, and **AI-powered desktop applications**
 - 🔭 I love building real-world AI systems — from model design to deployment
 - 🧠 Actively looking for new opportunities in AI/ML and Deep Learning
 - ⚡ Fun fact: I genuinely **enjoy debugging** and love **mathematics**

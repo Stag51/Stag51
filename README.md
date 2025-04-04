@@ -5,17 +5,19 @@
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stag51&label=Profile%20views&color=0e75b6&style=flat" alt="stag51" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=stag51&label=Profile%20views&color=0e75b6&style=flat" alt="stag51" />
+</p>
 
 ---
 
 🚀 **About Me:**
 
-- 💼 Currently working remotely as a **Machine Learning Engineer** at **AI Data House **
-- 🤖 Specialized in **Machine Learning**,**Deep Learning**, **NLP**,, **computer vision**, **reinforcement learning**, and **AI-powered desktop applications**
-- 🔭 I love building real-world AI systems — from model design to deployment
-- 🧠 Actively looking for new opportunities in AI/ML and Deep Learning
-- ⚡ Fun fact: I genuinely **enjoy debugging** and love **mathematics**
+- 💼 Currently working remotely as a **Machine Learning Engineer** at **AI Data House**
+- 🤖 Specialized in **Machine Learning**, **Deep Learning**, **NLP**, **Computer Vision**, **Reinforcement Learning**, and **AI-powered Desktop Applications**
+- 🔭 Passionate about building real-world AI systems — from model design to deployment
+- 🌱 Actively seeking new opportunities in AI/ML and Deep Learning
+- ⚡ Fun fact: I genuinely **enjoy debugging** and have a deep appreciation for **mathematics**
 
 📫 **Reach me:**  
 `dev.saad.shabbir@gmail.com` | [LinkedIn](https://linkedin.com/in/saad51) | [Kaggle](https://www.kaggle.com/saad51)
@@ -32,15 +34,39 @@
 
 ---
 
-### 📌 Pinned Projects (Coming Soon!)
+### 📌 Pinned Projects
 
-📦 `city-surveillance-ai` – Real-time anomaly detection with deep learning  
-📈 `diabetes-risk-predictor` – A recall-optimized medical prediction model  
-🤖 `ppo-vs-dqn-digital-twin` – Reinforcement learning on industrial simulations  
-🖥️ `cv-desktop-app` – PyQt5-based computer vision GUI  
-🌐 `flask-ai-api` – Serving a trained model as a REST API  
+> Real-world ML/AI projects I've worked on and love sharing:
 
-> 🔧 *Working on uploading and organizing these – stay tuned!*
+- 🛡️ [**City Surveillance AI**](https://github.com/Stag51/city-surveillance-ai):  
+  Real-time anomaly detection system for city surveillance using deep learning.
+
+- 🧬 [**Diabetes Risk Predictor**](https://github.com/Stag51/diabetes-risk-prediction-100-recall-rate):  
+  A recall-optimized model designed to prioritize medical safety.
+
+- 🤖 [**Digital Twin - PPO vs DQN**](https://github.com/Stag51/ppo-vs-dqn-digital-twin):  
+  Industrial simulations powered by reinforcement learning (PPO & DQN).
+
+- 🖥️ [**CV Desktop App**](https://github.com/Stag51/cv-desktop-app):  
+  PyQt5-powered GUI that runs real-time computer vision models.
+
+- 🌐 [**Flask AI API**](https://github.com/Stag51/flask-ai-api):  
+  Lightweight backend for serving ML models using Flask.
+
+- 🧭 [**DDPG for Robot Navigation**](https://github.com/Stag51/DDPG_FOR_MOBILE_ROBOT_NAVIGATION_RL):  
+  Deep reinforcement learning for path planning in robotic environments.
+
+- 🌺 [**Flower Classification (TensorFlow)**](https://github.com/Stag51/Flower_TensorFlow):  
+  Image classification model trained on flower species using CNN.
+
+- 🧫 [**Kaggle - Single Cell Perturbations**](https://github.com/Stag51/Kaggle-Single-Cell-Perturbations-Competition):  
+  Competition entry focused on modeling gene expression changes.
+
+- 🖐 [**Slides Controller using Motion Detection**](https://github.com/Stag51/Slides_Control_Using_Motion_Detection):  
+  Control your slides with hand gestures — no clicker needed!
+
+- 🚢 [**Titanic Survival Prediction (LogReg)**](https://github.com/Stag51/Titanic_With_LogReg):  
+  Classic ML challenge using logistic regression on Titanic dataset.
 
 ---
 

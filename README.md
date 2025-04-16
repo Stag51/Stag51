@@ -1,4 +1,4 @@
-![logo](https://github.com/Stag51/Stag51/blob/main/image.png)
+![logo](https://github.com/Stag51/Stag51/blob/main/Profile_Banner.png)
 
 <h1 align="center">Hi 👋, I'm Saad Shabbir</h1>
 <h3 align="center">Machine Learning Engineer | Computer Vision Enthusiast | Open to Work</h3>

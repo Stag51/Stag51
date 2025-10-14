@@ -13,7 +13,7 @@
 
 🚀 **About Me:**
 
-- 💼 Currently working remotely as a **Machine Learning Engineer** at **AI Data House**
+- 💼 Currently working remotely as a **Machine Learning Engineer** at **Sprouto Group**
 - 🤖 Specialized in **Machine Learning**, **Deep Learning**, **NLP**, **Computer Vision**, **Reinforcement Learning**, and **AI-powered Desktop Applications**
 - 🔭 Passionate about building real-world AI systems — from model design to deployment
 - 🌱 Actively seeking new opportunities in AI/ML and Deep Learning

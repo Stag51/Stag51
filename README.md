@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stag51&label=Profile%20views&color=0e75b6&style=flat" alt="stag51" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stag51" alt="stag51" /></a> </p>
 # 💫 About Me:
-📍 Based in Lahore, Pakistan<br>💼 Machine Learning Engineer at Sprouto Ltd.<br>🤖 Specialized in Machine Learning, Deep Learning, Computer Vision, and Reinforcement Learning<br>🌱 I’m currently learning Robotics, Electronics and crazy hardware stuff<br>👨‍💻 All of my projects are available at github.com/Stag51<br>📫 How to reach me dev.saad.shabbir@gmail.com<br>⚡ Fun fact I genuinely enjoy debugging and have a deep appreciation for mathematics
+📍 Based in Lahore, Pakistan<br>💼 AI/ML Engineer at Sprouto Ltd.<br>🤖 Specialized in Machine Learning, Deep Learning, Computer Vision, and Reinforcement Learning<br>🌱 I’m currently learning Robotics, Electronics and crazy hardware stuff<br>👨‍💻 All of my projects are available at github.com/Stag51<br>📫 How to reach me dev.saad.shabbir@gmail.com<br>⚡ Fun fact I genuinely enjoy debugging and have a deep appreciation for mathematics
 
 
 ## 🌐 Socials:
